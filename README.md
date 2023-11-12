@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TopheGune
+- 👋 Hi, I’m @TopheGun
 - 👀 I’m interested in Powershell administration
 - 🌱 I’m currently system and network instructor
 - 💞️ I’m looking to collaborate on ...
